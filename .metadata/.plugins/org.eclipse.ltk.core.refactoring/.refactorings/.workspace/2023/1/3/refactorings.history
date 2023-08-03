@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JavaExceptionHAndle&apos; to &apos;JavaException&amp;MultiThread&apos;" description="Rename resource &apos;JavaExceptionHAndle&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JavaExceptionHAndle" name="JavaException&amp;MultiThread" stamp="1674143157154" updateReferences="true"/>
+</session>

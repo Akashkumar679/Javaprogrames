@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Change method &apos;private static void com.sort.java.MargeShort.merge(int[] StartingIndex, int[] EndingIndex, int[] arr)&apos; to &apos;private static void merge(int[] StartingIndex, int[] EndingIndex, int[] arr)&apos;&#x0D;&#x0A;- Original project: &apos;Array&apos;&#x0D;&#x0A;- Original element: &apos;com.sort.java.MargeShort.merge(...)&apos;&#x0D;&#x0A;- Changed parameters:&#x0D;&#x0A;     int[] last" delegate="false" deprecate="true" description="Change method &apos;merge&apos;" flags="589826" id="org.eclipse.jdt.ui.change.method.signature" input="/src&lt;com.sort.java{MargeShort.java[MargeShort~merge~\[I~\[I~\[I" name="merge" parameter1="int[] StartingIndex 0 int[] StartingIndex false" parameter2="int[] EndingIndex 1 int[] EndingIndex false" parameter3="int[] last 2 int[] arr false" stamp="1675246507924" version="1.0"/>
+</session>

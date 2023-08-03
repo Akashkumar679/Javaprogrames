@@ -1,0 +1,23 @@
+package com.oops.Super;
+class car{
+	public void engine() {
+		System.out.println("1534 highspeed");
+	}
+	public car(int i) {
+		System.out.println("carNumber");
+	}
+}
+class audi extends car{
+	public audi() {
+		super(12);
+		System.out.println("bset in the world");
+	}
+}
+public class Calltosuper2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

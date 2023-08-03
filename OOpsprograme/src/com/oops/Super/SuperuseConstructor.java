@@ -1,0 +1,19 @@
+package com.oops.Super;
+class test{
+	int i;
+}
+class test2 extends test{
+	int j;
+	test2(int i,int j){
+		super.i=i;
+		this.j=j;
+	}
+}
+public class SuperuseConstructor {
+
+	public static void main(String[] args) {
+		test2 t=new test2(12, 14);
+		System.out.println(t.i+t.j);
+	}
+
+}

@@ -1,0 +1,16 @@
+package com.akash;
+
+public class RemoveDuplicateString {
+
+	public static void main(String[] args) {
+
+		String s="i want to be a java devloper";
+		
+		StringBuilder builder = new StringBuilder();
+		
+		s.chars().distinct().forEach(c-> builder.append((char)c));
+		System.out.println(builder);
+	}
+
+}
+

@@ -1,0 +1,21 @@
+package com.oops.Super;
+class perent{
+	int j;
+	perent(int j){
+		this.j=j;
+	}
+}
+class childs extends perent{
+	int i;
+	childs(int i){
+		super(21);
+		this.i=i;
+	}
+}
+public class AllwaysSuper {
+
+	public static void main(String[] args) {
+	  new childs(25);
+	}
+
+}

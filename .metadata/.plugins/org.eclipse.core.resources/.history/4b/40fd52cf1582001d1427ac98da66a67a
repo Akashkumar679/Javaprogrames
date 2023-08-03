@@ -1,0 +1,17 @@
+package com.oops.Super;
+class perent{
+	int j;
+	perent(int j){
+		this.j=10;
+	}
+}
+class childs extends perent{
+	
+}
+public class AllwaysSuper {
+
+	public static void main(String[] args) {
+		
+	}
+
+}
